@@ -67,7 +67,7 @@ System.out.println("é complicado, mas não arregue");
 
 
 
-#•Gerenciamento 🧰:
+# •Gerenciamento de projetos 🧰:
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
